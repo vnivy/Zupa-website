@@ -1,0 +1,217 @@
+.yellow{
+    background-color:  #ffcc00;
+}
+.white{
+    background-color: whitesmoke;
+}
+.icons{
+    color: white;
+}
+*{
+    list-style: none;
+}
+.icons:hover{
+color: black;
+}
+.theteam{
+    font-size: 28px;
+    font-weight: 700;
+}
+.topnav{
+    font-size: 14px;
+}
+.nav-link{
+    font-size: 14px;
+}
+.experts{
+    font-size: 24px;
+    font-weight: 700;
+    
+}
+.lorem{
+    color:grey;
+}
+.our{
+    font-size: 17px;
+    color:grey;
+}
+.seperator1 {
+    height: 2px;
+    width: 63px;
+    background-color: #ffcc00;
+    text-align: center;
+    /* font-weight: 100; */
+}
+.pic1{
+    text-align: end;
+}
+.seperator{
+    height: 1px;
+    width: 40px;
+    background-color: #f8d95b;
+    text-align: center;
+}
+.text{
+    color: white;
+}
+.text2{
+    color: white;
+}
+.team1{
+    width:100%;
+}
+.teamtext{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+}
+.team{
+    text-align: center;
+    color: gray;
+}
+.teamtext:hover{
+    color:#ffcc00;
+}
+.black{
+   background-color: black;
+   color:white;
+}
+.icon-button {
+    background-color: rgb(73, 72, 72);
+    padding: 9px 12px;
+    border-radius: 2px;
+}
+.content{
+  color: rgb(131, 131, 131);
+  font-size: 15px;
+}
+.footicon{
+    color:gray;
+    font-size: 2rem;
+}
+.footicon:hover{
+    color: white;
+}
+.icon-button:hover{
+   background-color:#ffcc00;
+}
+.insta1{
+    height: 85px;
+    width: 85px;
+}
+.homelist:hover{
+    color:#ffcc00 ;
+}
+.bird{
+    color:#ffcc00 ;
+}
+.twitterlink{
+    color:#ffcc00 ;
+}
+.seperatorr {
+    height: 0.2px;
+    width: 240px;
+    background-color:#292626;
+    text-align: center;
+}
+.copyrights{
+background-color: rgb(15, 15, 15);
+color:rgb(58, 58, 58);
+}
+.twitterpara{
+    color:rgb(131, 131, 131);
+}
+.homelist{
+    color:rgb(131, 131, 131); 
+}
+.space{
+    padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
+}
+.topcontent{
+    text-align: right;
+}
+.option{
+    text-align: end;
+}
+
+
+
+
+@media (min-width: 320px) and (max-width: 768px) {
+.pic1{
+    width: 295px;
+    text-align: center;
+}
+.twitterlink{
+    display:none;
+}
+.topcontent{
+    text-align: center;
+
+}
+.option{
+    text-align: center;
+}
+.experts{
+    text-align: center;
+} 
+.topcontent1{
+    display: none;
+
+} 
+
+.topnav{
+    margin-top: 0px;
+    position: absolute;
+}
+/* .experts{
+    text-align: center;
+}
+.our{
+    text-align: center;
+}
+.lorem{
+    text-align: center;
+}
+.seperator1{
+    text-align: center;
+} */
+.space{
+    padding-top: 0rem!important;
+    padding-bottom: 0rem!important;
+}
+.heading{
+    margin-top: 20px;
+}
+
+} 
+
+@media(min-width: 768px) and (max-width:1030px) {
+.teamtext {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+}
+.our{
+    font-size: 16px;
+}
+.lorem{
+    font-size: 15px;
+}
+.pic1 {
+    height: 342px;
+    width: 361px;
+    text-align: center;
+}
+
+}
+
+
+
+
+
+
+
+
+
